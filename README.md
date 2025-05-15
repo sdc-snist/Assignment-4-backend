@@ -18,8 +18,8 @@ file contains:
 
 1. **Clone this repo** to your local machine:
    ```bash
-   git clone https://github.com/sdc-snist/Assignment-4-Backend/
-   cd Assignment-4-Backend
+   git clone https://github.com/sdc-snist/Assignment-4-backend/
+   cd Assignment-4-backend
 2. **Run the Code**:
    ```bash
    node index.js
